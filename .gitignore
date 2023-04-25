@@ -1,5 +1,6 @@
 *
 !benchmark.py
 !config.py
+!stats.py
 !stat_maker.py
 !.gitignore
